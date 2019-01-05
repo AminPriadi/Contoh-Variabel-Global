@@ -1,0 +1,1 @@
+# Contoh-Variabel-Global
